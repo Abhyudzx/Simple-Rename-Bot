@@ -1,8 +1,10 @@
+
 from pyrogram import Client, filters
 from mega import Mega
 import os
 
 # Fill in your details
+
 mega_email = 'abhyudbot@gmail.com'
 mega_password = 'Abhyudshiva7'
 
